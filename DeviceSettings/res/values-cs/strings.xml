@@ -14,4 +14,15 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Pokročilá nastavení</string>
+  <string name="general_title">Hlavní</string>
+  <string name="category_backlight_title">Podsvícení</string>
+  <string name="button_brightness_title_head">Jas podsvícení tlačítek</string>
+  <string name="keyboard_brightness_title_head">Jas podsvícení klávesnice</string>
+  <string name="defaults_button">Obnovit výchozí</string>
+  <string name="category_haptic_title">Hmatová odezva</string>
+  <string name="vibrator_title">Vibrace</string>
+  <string name="vibrator_tuning_title">Síla vibrací</string>
+  <string name="vibrator_warning">Hodnoty vyšší než %1$d nejsou doporučeny</string>
+</resources>
