@@ -14,4 +14,15 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Paramètres avancés</string>
+  <string name="general_title">Général</string>
+  <string name="category_backlight_title">Rétroéclairage</string>
+  <string name="button_brightness_title_head">Luminosité du rétroéclairage des boutons</string>
+  <string name="keyboard_brightness_title_head">Luminosité du rétroéclairage du clavier</string>
+  <string name="defaults_button">Réinitialiser</string>
+  <string name="category_haptic_title">Haptique</string>
+  <string name="vibrator_title">Vibreur</string>
+  <string name="vibrator_tuning_title">Intensité du vibreur</string>
+  <string name="vibrator_warning">Les valeurs supérieures à %1$d ne sont pas recommandées</string>
+</resources>
